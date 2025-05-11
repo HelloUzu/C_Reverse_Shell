@@ -1,4 +1,4 @@
-# 🖥️ Welcome to the repository!
+# 🖥️ Welcome to Reverse Shell repository!
 
 - It's a simple reverse shell in C.
 
