@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define PORT 7777 // The port here.
+#define PORT 7777
 
 const char *ipAddress = ""; // Your IP Address here.
 
